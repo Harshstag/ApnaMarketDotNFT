@@ -22,11 +22,11 @@ Install my-project with npm
     
 ## Screenshots
 
-![Home Page Screenshot](https://drive.google.com/file/d/11Mg2FUeYz5sDixvRwNXTToIiPuNOTLFG/view?usp=sharing)
+[Home Page Screenshot](https://drive.google.com/file/d/11Mg2FUeYz5sDixvRwNXTToIiPuNOTLFG/view?usp=sharing)
 
-![Account Screenshot](https://drive.google.com/file/d/1KTWAyMZlzYk-8WMMIkbxpEljvHyy1fOD/view?usp=sharing)
+[Account Screenshot](https://drive.google.com/file/d/1KTWAyMZlzYk-8WMMIkbxpEljvHyy1fOD/view?usp=sharing)
 
-![Details Page Screenshot](https://drive.google.com/file/d/1t8KyCxGhDnzmTmzW5_jx8MeXgbdyR3PC/view?usp=sharing)
+[Details Page Screenshot](https://drive.google.com/file/d/1t8KyCxGhDnzmTmzW5_jx8MeXgbdyR3PC/view?usp=sharing)
 
 ## Demo
 
