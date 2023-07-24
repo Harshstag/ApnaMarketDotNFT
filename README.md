@@ -7,7 +7,7 @@ authenticity and uniqueness. This enables artists, creators, and collectors to t
 digital assets, including artwork, music, videos, virtual real estate, virtual goods, and more
 
 
-<img src="img/Screenshot (116).png" style="width=50%"/>
+<img src="img/Screenshot (159).png" style="width=50%"/>
 <img src="img/Screenshot (165).png" style="width=50%"/>
 <img src="img/Screenshot (166).png" style="width=50%"/>
 
