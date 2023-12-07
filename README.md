@@ -9,7 +9,10 @@ This is a fullstack DApp NFT Marketplace built as a study project to learn more 
 Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Pinata(IPFS), Metamask and Alchemy.
 
 
-## ![NFT MarketPlace Video](https://github.com/Harshstag/ApnaMarketDotNFT/assets/62803431/8386278f-efda-4318-a909-84a236581274)
+
+
+https://github.com/Harshstag/ApnaMarketDotNFT/assets/62803431/8101f24f-8b20-41e5-b1b5-a73312b41bb6
+
 Demo
 
 ![Demo](https://github.com/Harshstag/ApnaMarketDotNFT/tree/main/img/ezgif.com-optimize.gif)
@@ -36,8 +39,7 @@ There are three pages to view NFT marketplace :
 Shows all NFTs that are available to be bought.  
 This page will show NFTs even if the user doesn't have the [Metamask](https://metamask.io/) extension or isn't connected to the dapp.
 
-![NFTs available](https://user-images.githubusercontent.com/16388408/151682517-6c0d89eb-80e6-4eeb-a6b0-6d584cdca5a3.png)  
-_NFTs available_
+<img src="img/Screenshot (168).png"  style="width:50%"/>
 
 ---
 
@@ -48,8 +50,7 @@ Here you keep track of NFT's you've created and check for how much they've been 
 You can also list your current owned NFTs or cancel existing ones.  
 To view this page, you must have Metamask installed and have it connected to Polygon's Testnet network.
 
-![Created and owned NFTs](https://user-images.githubusercontent.com/16388408/151682482-9db61934-bf17-4ea7-bd09-8c3ee5878f13.png)  
-_Created and owned NFTs_
+<img src="img/Screenshot (159).png"  style="width:50%"/>
 
 ---
 
@@ -57,17 +58,14 @@ _Created and owned NFTs_
 
 This page has all the information about your owned NFts and your account details such as account balance.
 
-![Download metamask message and buttons](https://user-images.githubusercontent.com/16388408/151679982-16116556-c354-44d0-93dc-468de64194fa.png)
-_Download metamask message and buttons_
+<img src="img/Screenshot (165).png"  style="width:50%"/>
 
 ---
 
 - **Sell NFT Page**
 
 This page takes all the details of the NFT that you want to upload.
-
-![Download metamask message and buttons](https://user-images.githubusercontent.com/16388408/151679982-16116556-c354-44d0-93dc-468de64194fa.png)
-_Download metamask message and buttons_
-
+<img src="img/Screenshot (166).png"  style="width:50%"/>
+<img src="img/Screenshot (167).png"  style="width:50%"/>
 ---
 
