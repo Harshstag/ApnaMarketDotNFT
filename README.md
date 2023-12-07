@@ -68,4 +68,16 @@ This page takes all the details of the NFT that you want to upload.
 <img src="img/Screenshot (166).png"  style="width:50%"/>
 <img src="img/Screenshot (167).png"  style="width:50%"/>
 ---
+## Components Used
 
+Install my-project with npm
+
+```bash
+    Solidity (Writing Smart Contract)
+    Javascript (React & Testing)
+    Ethers (Blockchain Interaction)
+    Hardhat (Development Framework)
+    Ipfs (Metadata storage)
+    React routers (Navigational components) 
+```
+    
